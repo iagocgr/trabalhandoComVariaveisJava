@@ -16,14 +16,14 @@ public class App {
         for (int i=0; i<=10; i++) {
             System.out.println(i); 
         } 
-        int i;
+        /*int i;
         String vet[];
-        
+
         boolean achou = false;
         while( i < vet.length && !achou ){
             achou = ( vet[i] == "param" );
             i++;
-        }
+        } */
 
         if (variavelLogica) {
             System.out.println("\n Teste de Variavel logica  ->: " + caracter);
